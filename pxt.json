@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "motor": "github:scramble-robot/pxt-motor#4e2dffb0e0fd29ce28597d3bf8522d9aab9cb766"
     },
     "files": [
         "README.md",
